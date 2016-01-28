@@ -14,7 +14,7 @@ locale: zh_CN
 #github_username:  yulijia
 duoshuo: false
 disqus_shortname: jiwairen
-duoshuo_shortname: jiwaien
+duoshuo_shortname: jiwairen
 favicon:     "/images/favicon.ico"
 aboutme: 欢迎来到济外人网站联盟 # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
