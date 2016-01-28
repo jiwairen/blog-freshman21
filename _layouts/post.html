@@ -31,5 +31,8 @@ layout: default
 
 
 {% include page_pagination.html%}
+{% if site.duoshuo == true %}
+{% include duoshuo.html %}
+{% else %}
 {% include comments.html %}
-
+{% endif %}
