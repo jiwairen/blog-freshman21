@@ -6,7 +6,7 @@ email: admin@boboweb.net
 description: "" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://test,jiwai.en/" # the base hostname & protocol for your site
+url: "http://test.jiwai.ren/" # the base hostname & protocol for your site
 locale: zh_CN
 
 ### Personal info and site tools info:
@@ -57,7 +57,7 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-    - name: JFLS website union
+    - name: JFLSer website union
       href: http://jiwai.ren
       title: Enjoy your own website
 
