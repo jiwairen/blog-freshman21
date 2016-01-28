@@ -13,10 +13,9 @@ layout: default
   
 </div>
 
-  {% if page.comments %}
   {% if site.duoshuo == true %}
   {% include duoshuo.html %}
   {% else %}
   {% include comments.html %}
   {% endif %}
-  {% endif %}
+  
