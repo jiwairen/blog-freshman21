@@ -12,7 +12,11 @@ layout: default
   </article>
 
   {% if page.comments %}
+  {% if site.disqus %}
   {% include comments.html %}
+  {% else %}
+  {% include duoshuo.html %}
+  {% endif %}
   {% endif %}
 
 </div> 
