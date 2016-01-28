@@ -12,10 +12,11 @@ locale: zh_CN
 ### Personal info and site tools info:
 #twitter_username: yulijia
 #github_username:  yulijia
+duoshuo: false
 disqus_shortname: jiwairen
 duoshuo_shortname: jiwaien
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: 欢迎来到济外人网站联盟 # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
 
 
